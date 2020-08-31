@@ -1,0 +1,267 @@
+,group,Movie,Original group
+0,Crime,The Godfather,Crime
+1,Crime,The Godfather: Part II,Crime
+2,Crime,Pulp Fiction,Crime
+3,Drama,"The Good, the Bad and the Ugly",Western
+4,Action,The Dark Knight,Action
+5,Drama,12 Angry Men,Drama
+6,Biography,Schindler's List,Biography
+7,Adventure,The Lord of the Rings: The Return of the King,Adventure
+8,Drama,Fight Club,Drama
+9,Action,Star Wars: Episode V - The Empire Strikes Back,Action
+10,Adventure,The Lord of the Rings: The Fellowship of the Ring,Adventure
+11,Drama,One Flew Over the Cuckoo's Nest,Drama
+12,Drama,Goodfellas,Biography
+13,Drama,Seven Samurai,Adventure
+14,Action,Inception,Action
+15,Action,Star Wars,Action
+16,Drama,Forrest Gump,Drama
+17,Action,The Matrix,Action
+18,Adventure,The Lord of the Rings: The Two Towers,Adventure
+19,Crime,City of God,Crime
+20,Crime,The Silence of the Lambs,Crime
+21,Crime,Se7en,Crime
+22,Drama,Once Upon a Time in the West,Western
+23,Drama,Casablanca,Drama
+24,Crime,The Usual Suspects,Crime
+25,Action,Raiders of the Lost Ark,Action
+26,Drama,Rear Window,Mystery
+27,Drama,It's a Wonderful Life,Drama
+28,Drama,Psycho,Horror
+29,Action,Léon: The Professional,Action
+30,Drama,Sunset Blvd.,Drama
+31,Drama,American History X,Drama
+32,Drama,Apocalypse Now,Drama
+33,Action,Terminator 2: Judgment Day,Action
+34,Drama,Memento,Mystery
+35,Drama,Saving Private Ryan,Drama
+36,Comedy,City Lights,Comedy
+37,Drama,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Comedy
+38,Horror,Alien,Horror
+39,Drama,Modern Times,Comedy
+40,Animation,Spirited Away,Animation
+41,Drama,Gravity,Drama
+42,Adventure,North by Northwest,Adventure
+43,Drama,Back to the Future,Adventure
+44,Drama,Citizen Kane,Drama
+45,Biography,The Pianist,Biography
+46,Crime,M,Crime
+47,Drama,Life Is Beautiful,Comedy
+48,Drama,The Shining,Drama
+49,Crime,The Departed,Crime
+50,Drama,Paths of Glory,Drama
+51,Drama,Vertigo,Mystery
+52,Drama,American Beauty,Drama
+53,Drama,Django Unchained,Drama
+54,Crime,Double Indemnity,Crime
+55,Crime,Taxi Driver,Crime
+56,Drama,The Dark Knight Rises,Action
+57,Action,Aliens,Action
+58,Crime,The Green Mile,Crime
+59,Drama,The Intouchables,Biography
+60,Action,Gladiator,Action
+61,Drama,WALL·E,Animation
+62,Drama,The Lives of Others,Drama
+63,Animation,Toy Story 3,Animation
+64,Drama,The Great Dictator,Comedy
+65,Crime,A Clockwork Orange,Crime
+66,Drama,The Prestige,Drama
+67,Drama,Amélie,Comedy
+68,Adventure,Lawrence of Arabia,Adventure
+69,Crime,To Kill a Mockingbird,Crime
+70,Crime,Reservoir Dogs,Crime
+71,Adventure,Das Boot,Adventure
+72,Drama,Cinema Paradiso,Drama
+73,Drama,The Lion King,Animation
+74,Adventure,The Treasure of the Sierra Madre,Adventure
+75,Drama,The Third Man,Film-Noir
+76,Crime,Once Upon a Time in America,Crime
+77,Drama,Requiem for a Dream,Drama
+78,Action,Star Wars: Episode VI - Return of the Jedi,Action
+79,Drama,Eternal Sunshine of the Spotless Mind,Drama
+80,Drama,Full Metal Jacket,Drama
+81,Drama,Braveheart,Biography
+82,Crime,L.A. Confidential,Crime
+83,Action,Oldboy,Action
+84,Comedy,Singin' in the Rain,Comedy
+85,Drama,Metropolis,Drama
+86,Drama,Chinatown,Drama
+87,Crime,Rashomon,Crime
+88,Drama,Some Like It Hot,Comedy
+89,Drama,Bicycle Thieves,Drama
+90,Drama,All About Eve,Drama
+91,Adventure,Monty Python and the Holy Grail,Adventure
+92,Animation,Princess Mononoke,Animation
+93,Drama,Amadeus,Biography
+94,Drama,2001: A Space Odyssey,Adventure
+95,Crime,Witness for the Prosecution,Crime
+96,Drama,The Apartment,Comedy
+97,Comedy,The Sting,Comedy
+98,Drama,Unforgiven,Drama
+99,Drama,Grave of the Fireflies,Animation
+100,Action,Indiana Jones and the Last Crusade,Action
+101,Biography,Raging Bull,Biography
+102,Adventure,The Bridge on the River Kwai,Adventure
+103,Action,Die Hard,Action
+104,Drama,Yojimbo,Action
+105,Action,Batman Begins,Action
+106,Drama,A Separation,Drama
+107,Drama,Inglourious Basterds,Adventure
+108,Drama,For a Few Dollars More,Western
+109,Drama,Mr. Smith Goes to Washington,Comedy
+110,Drama,Snatch.,Comedy
+111,Animation,Toy Story,Animation
+112,Crime,On the Waterfront,Crime
+113,Drama,The Great Escape,Adventure
+114,Biography,Downfall,Biography
+115,Drama,Pan's Labyrinth,Drama
+116,Animation,Up,Animation
+117,Action,The General,Action
+118,Drama,The Seventh Seal,Drama
+119,Crime,Heat,Crime
+120,Biography,The Elephant Man,Biography
+121,Drama,The Maltese Falcon,Film-Noir
+122,Drama,The Kid,Comedy
+123,Action,Blade Runner,Action
+124,Drama,Wild Strawberries,Drama
+125,Drama,Rebecca,Drama
+126,Crime,Scarface,Crime
+127,Drama,Ikiru,Drama
+128,Action,Ran,Action
+129,Crime,Fargo,Crime
+130,Drama,Gran Torino,Drama
+131,Crime,Touch of Evil,Crime
+132,Comedy,The Big Lebowski,Comedy
+133,Drama,The Gold Rush,Adventure
+134,Drama,The Deer Hunter,Drama
+135,Crime,Cool Hand Luke,Crime
+136,Drama,It Happened One Night,Comedy
+137,Crime,Diabolique,Crime
+138,Crime,No Country for Old Men,Crime
+139,Drama,The Sixth Sense,Drama
+140,Comedy,"Lock, Stock and Two Smoking Barrels",Comedy
+141,Adventure,Jaws,Adventure
+142,Drama,Good Will Hunting,Drama
+143,Crime,Strangers on a Train,Crime
+144,Crime,Casino,Crime
+145,Drama,Judgment at Nuremberg,Drama
+146,Drama,The Grapes of Wrath,Drama
+147,Drama,The Wizard of Oz,Adventure
+148,Drama,Platoon,Drama
+149,Crime,Sin City,Crime
+150,Drama,Butch Cassidy and the Sundance Kid,Biography
+151,Drama,Kill Bill: Vol. 1,Action
+152,Drama,The Thing,Horror
+153,Drama,Trainspotting,Drama
+154,Drama,Gone with the Wind,Drama
+155,Drama,High Noon,Drama
+156,Drama,Annie Hall,Comedy
+157,Drama,Hotel Rwanda,Biography
+158,Drama,The Hunt,Drama
+159,Drama,Warrior,Drama
+160,Drama,The Secret in Their Eyes,Drama
+161,Animation,Finding Nemo,Animation
+162,Animation,My Neighbor Totoro,Animation
+163,Action,V for Vendetta,Action
+164,Drama,Notorious,Drama
+165,Crime,Dial M for Murder,Crime
+166,Action,The Avengers,Action
+167,Animation,How to Train Your Dragon,Animation
+168,Drama,Life of Brian,Comedy
+169,Adventure,Into the Wild,Adventure
+170,Drama,The Best Years of Our Lives,Drama
+171,Drama,Network,Drama
+172,Action,The Terminator,Action
+173,Drama,Million Dollar Baby,Drama
+174,Drama,There Will Be Blood,Drama
+175,Drama,Ben-Hur,Adventure
+176,Drama,The Night of the Hunter,Crime
+177,Crime,The Big Sleep,Crime
+178,Biography,The King's Speech,Biography
+179,Adventure,Stand by Me,Adventure
+180,Crime,The 400 Blows,Crime
+181,Drama,Twelve Monkeys,Documentary
+182,Comedy,Groundhog Day,Comedy
+183,Drama,Donnie Darko,Drama
+184,Biography,Dog Day Afternoon,Biography
+185,Drama,Amores Perros,Drama
+186,Animation,Howl's Moving Castle,Animation
+187,Drama,Mary and Max,Animation
+188,Drama,Gandhi,Biography
+189,Drama,The Bourne Ultimatum,Action
+190,Drama,A Beautiful Mind,Biography
+191,Drama,Persona,Drama
+192,Crime,The Killing,Crime
+193,Drama,The Graduate,Comedy
+194,Biography,Rush,Biography
+195,Drama,Black Swan,Drama
+196,Drama,The Princess Bride,Adventure
+197,Drama,Who's Afraid of Virginia Woolf?,Drama
+198,Drama,The Hustler,Drama
+199,Drama,The Man Who Shot Liberty Valance,Drama
+200,Drama,La Strada,Drama
+201,Crime,Anatomy of a Murder,Crime
+202,Drama,8½,Drama
+203,Drama,The Manchurian Candidate,Drama
+204,Drama,Rocky,Drama
+205,Horror,The Exorcist,Horror
+206,Drama,Slumdog Millionaire,Drama
+207,Drama,In the Name of the Father,Biography
+208,Drama,Stalag 17,Comedy
+209,Crime,Rope,Crime
+210,Drama,The Wild Bunch,Action
+211,Adventure,Barry Lyndon,Adventure
+212,Drama,"Monsters, Inc.",Animation
+213,Drama,Fanny and Alexander,Drama
+214,Crime,Infernal Affairs,Crime
+215,Drama,The Truman Show,Comedy
+216,Drama,Roman Holiday,Comedy
+217,Drama,Life of Pi,Adventure
+218,Action,Pirates of the Caribbean: The Curse of the Black Pearl,Action
+219,Drama,Memories of Murder,Action
+220,Drama,All Quiet on the Western Front,Drama
+221,Adventure,Harry Potter and the Deathly Hallows: Part 2,Adventure
+222,Drama,Sleuth,Mystery
+223,Drama,Stalker,Drama
+224,Action,Jurassic Park,Action
+225,Drama,A Streetcar Named Desire,Drama
+226,Action,Star Trek,Action
+227,Animation,Ratatouille,Animation
+228,Action,Ip Man,Action
+229,Drama,A Fistful of Dollars,Drama
+230,Biography,The Diving Bell and the Butterfly,Biography
+231,Adventure,The Hobbit: An Unexpected Journey,Adventure
+232,Action,District 9,Action
+233,Drama,Shutter Island,Mystery
+234,Drama,Rain Man,Drama
+235,Drama,Incendies,Drama
+236,Drama,Rosemary's Baby,Drama
+237,Crime,La Haine,Crime
+238,Drama,3 Idiots,Comedy
+239,Comedy,The Artist,Comedy
+240,Animation,Nausicaä of the Valley of the Wind,Animation
+241,Animation,Beauty and the Beast,Animation
+242,Drama,Three Colors: Red,Drama
+243,Drama,Bringing Up Baby,Comedy
+244,Crime,Mystic River,Crime
+245,Crime,In the Heat of the Night,Crime
+246,Drama,Arsenic and Old Lace,Comedy
+247,Drama,Before Sunrise,Drama
+248,Drama,Papillon,Biography
+249,Horror,The Mist,Horror
+250,Drama,Saw,Horror
+251,Drama,The Birds,Drama
+252,Action,Dawn of the Dead,Action
+253,Drama,28 Days Later,Drama
+254,Drama,Scream,Horror
+255,Horror,Alien,Horror
+256,Adventure,Jaws,Adventure
+257,Horror,The Exorcist,Horror
+258,Drama,Hereditary ,Drama
+259,Horror,It,Horror
+260,Horror,The Witch,Horror
+261,Horror,The Grudge,Horror
+262,Drama,Candyman,Horror
+263,Horror,The Ring,Horror
+264,Drama,Rosemary's Baby,Drama
+265,Horror,Blair Witch Project,Horror
